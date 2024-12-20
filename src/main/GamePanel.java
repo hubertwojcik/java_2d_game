@@ -1,6 +1,6 @@
 package main;
 
-import main.entity.Player;
+import entity.Player;
 
 import javax.swing.*;
 import java.awt.*;
